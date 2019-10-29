@@ -62,6 +62,7 @@ ul {
 .apple-icon i{
 color: white;
 
+
 }
 .search-input{
   display: flex;
@@ -88,6 +89,10 @@ color: white;
     color: rgb(255, 255, 255);
     background-color: transparent;
     margin: 0 auto;
+}
+
+.main-h1{
+  text-decoration: none;
 }
 
 main h1{
@@ -141,24 +146,82 @@ aside {
 
 .aside-image{
   width: 337.25px;
+  height: 200px;
 }
 .aside-supplier{
   width: 337.25px;
 }
 .shop-online {
   display: flex;
+  width: 980px;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
 }
 
-.shop-online p{
+.shop-online a{
+  color: #08c;
+  text-decoration: none;
+}
+
+.shop-online p, .apple-inc {
   color: #6e6e6e;
-  font-size: 0.8334em;
+  font-size: 11px;
   line-height: 1.2;
+}
+
+.apple-inc{
+  margin-top: 2px;
 }
 
 .menu {
   display: flex;
+  align-items: center;
+ 
+}
+
+.menu a{
+  text-decoration: none;
+}
+
+.menu p{
+  margin: 0 7px;
+  padding-right: 5px;
+  border-right: 1px solid #4d4b4b;
+  color: #08c;
+ 
+}
+
+.menu img{
+  height: 15px;
 }
 
 .copyright{
   display: flex;
+  width: 980px;
+  margin: 0 auto;
+  align-items: flex-start;
+}
+
+.copyright p{
+  display: block;
+  margin-right: 10px;
+}
+
+.copyright a{
+  text-decoration: none;
+}
+
+.terms {
+  color: #08c;
+  text-decoration: none;
+  font-size: 11px;
+  line-height: 1.2;
+  margin-top: 2px;
+}
+
+.use {
+  border-right: 1px solid #6e6e6e;
+  padding-right: 5px;
 }
