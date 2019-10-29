@@ -1,0 +1,164 @@
+body{
+  top:-25px;
+  left:0;
+  margin: 0%;
+  padding: 0;
+ box-sizing: border-box;
+ position: absolute;
+ z-index: 1;
+}
+
+main{
+  background: url("https://archive.md/UW4oR/c737ac2a39d31e8407c5d08a73daddc5ddcf5d3e.jpg")  center center no-repeat;
+  background-size: cover;
+  background-position-y: 100%;
+  height: 538px;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  width: 980px;
+  height: 36px;
+  margin: 0 auto;
+  background-image: url('https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png');
+  background-size: cover;
+  border-radius: 5px;
+  position: relative;
+  top: 80px;
+  align-items: center;
+}
+
+ul {
+ display: flex;
+ justify-content: space-evenly;
+ list-style: none; 
+ width: 845px;
+ box-shadow: rgba(0, 0, 0, 0.296875) 0px 1px 2px;
+ padding-left: 0;
+ height: 36px;
+ 
+}
+
+.nav-list {
+  display:flex;
+  width: 118px;
+  height: 36px;
+  align-items: center;  
+  justify-content: center;
+  border-right: 1px solid #4d4b4b;
+ 
+}
+
+.nav-info {
+  font-size: 12px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  line-height: 18px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.apple-icon i{
+color: white;
+
+}
+.search-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 36px;
+  position: relative; 
+  margin-left: auto;
+  width: 132px;
+
+}
+
+.search-input i {
+  position: absolute;
+  left: 16px;
+  color: rgb(255, 255, 255)
+  
+}
+
+.search-input input{
+    width: 106px;
+    height: 20px;
+    border-radius: 12px;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    margin: 0 auto;
+}
+
+main h1{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 60px;
+  color: white;
+  position: relative;
+  top: 60px;
+}
+
+.main-verse{
+  font-size: 30px;
+  line-height: 1.5em;
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  text-decoration-line: none;
+  position:relative;
+  top:20px;
+  display: inline-block;
+  width: 850px;
+}
+
+.watch{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration-line: none;
+}
+
+.watch h3{
+  font-size: 22px;
+  color: white;
+  font-family: 'Raleway', sans-serif; 
+  display: block;
+}
+
+.watch i{
+  font-size: 35px;
+  color: white;
+  margin-left: 5px;
+}
+
+aside {
+  display: flex;
+  width: 1349px;
+  height: 200px;
+}
+
+.aside-image{
+  width: 337.25px;
+}
+.aside-supplier{
+  width: 337.25px;
+}
+.shop-online {
+  display: flex;
+}
+
+.shop-online p{
+  color: #6e6e6e;
+  font-size: 0.8334em;
+  line-height: 1.2;
+}
+
+.menu {
+  display: flex;
+}
+
+.copyright{
+  display: flex;
+}
