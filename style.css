@@ -21,15 +21,16 @@ nav {
   width: 980px;
   height: 36px;
   margin: 0 auto;
-  background-image: url('https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png');
+  background-image: linear-gradient(grey, #585858, grey);
   background-size: cover;
   border-radius: 5px;
   position: relative;
   top: 80px;
   align-items: center;
+  
 }
 
-ul {
+.nav-button {
   display: flex;
   justify-content: space-evenly;
   list-style: none;
@@ -39,25 +40,23 @@ ul {
   height: 36px;
 }
 
-.nav-list {
+.nav-button button {
+  height: 36px;
   display: flex;
-  width: 118px;
+  width: 105px;
   height: 36px;
   align-items: center;
   justify-content: center;
   border-right: 1px solid #4d4b4b;
-}
-
-.nav-info {
   font-size: 12px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   line-height: 18px;
   color: white;
-  text-decoration: none;
-}
-
-.apple-icon i {
-  color: white;
+  background: transparent;
+  border-top: 0;
+  border-bottom: 0;
+  border-left: 0;
+  cursor: pointer;
 }
 
 .search-input {
@@ -74,6 +73,7 @@ ul {
   position: absolute;
   left: 16px;
   color: rgb(255, 255, 255);
+  top: 10px;
 }
 
 .search-input input {

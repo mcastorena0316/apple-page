@@ -15,7 +15,7 @@ Clone of an Apple Page
 
 URL to the live version of our project: [Apple Page](https://rawcdn.githack.com/mcastorena0316/apple-page/10c4cdc2425967f1bd31a58e70bed0092f8c5a48/index.html)
 
-This a rebuild from a Ny Times article. The page we use for reference is [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/)
+This a rebuild from an Aple Page. The page we use for reference is [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
 ### Built With
 
@@ -47,7 +47,7 @@ Project Link: [Apple](https://github.com/mcastorena0316/apple-page/tree/feature-
 ## Acknowledgements
 
 * [Microverse](https://www.microverse.org/)
-* [New York Times](https://www.nytimes.com/)
+* [Apple](https://www.apple.com/)
 
 
 
