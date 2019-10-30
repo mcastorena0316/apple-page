@@ -27,7 +27,6 @@ nav {
   position: relative;
   top: 80px;
   align-items: center;
-  
 }
 
 .nav-button {
@@ -44,7 +43,6 @@ nav {
   height: 36px;
   display: flex;
   width: 105px;
-  height: 36px;
   align-items: center;
   justify-content: center;
   border-right: 1px solid #4d4b4b;
