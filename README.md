@@ -13,7 +13,7 @@ Clone of an Apple Page
 ## About The Project
 
 
-URL to the live version of our project: [Apple Page](https://rawcdn.githack.com/mcastorena0316/apple-page/10c4cdc2425967f1bd31a58e70bed0092f8c5a48/index.html)
+URL to the live version of my project: [Apple Page](https://rawcdn.githack.com/mcastorena0316/apple-page/26fc8ee57e0845f864c945c9ea9b846bbceed454/index.html)
 
 This a rebuild from an Aple Page. The page we use for reference is [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
