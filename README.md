@@ -17,6 +17,9 @@ URL to the live version of my project: [Apple Page](https://rawcdn.githack.com/m
 
 This a rebuild from an Apple Page. The page we use for reference is [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
+
+<div align="center"><img src="img/apple.jpg"></div>
+
 ### Built With
 
 * [HTML](https://github.com/mcastorena0316/apple-page/blob/feature-branch/index.html)

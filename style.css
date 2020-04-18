@@ -6,6 +6,7 @@ body {
   box-sizing: border-box;
   position: absolute;
   z-index: 1;
+  width:100%;
 }
 
 main {
@@ -57,6 +58,15 @@ nav {
   cursor: pointer;
 }
 
+.nav-button button:hover {
+  background-color: #4d4b4b;
+}
+
+.nav-button i {
+  font-size: 1.3rem;
+  color: lightgray
+}
+
 .search-input {
   display: flex;
   justify-content: center;
@@ -70,8 +80,11 @@ nav {
 .search-input i {
   position: absolute;
   left: 16px;
-  color: rgb(255, 255, 255);
   top: 10px;
+  margin-left: 3px;
+  margin-top: 2px;
+  font-size: .8rem;
+  color: lightgray;
 }
 
 .search-input input {
@@ -81,6 +94,8 @@ nav {
   color: rgb(255, 255, 255);
   background-color: transparent;
   margin: 0 auto;
+  border-style: inset;
+  border-color: gray
 }
 
 .main-h1 {
@@ -132,18 +147,18 @@ main h1 {
 
 aside {
   display: flex;
-  width: 1349px;
-  height: 200px;
+  width: 100%
+}
+
+aside a {
+  width:25%
 }
 
 .aside-image {
-  width: 337.25px;
-  height: 200px;
+  width: 100%;
+  height: 215px;
 }
 
-.aside-supplier {
-  width: 337.25px;
-}
 
 .shop-online {
   display: flex;
